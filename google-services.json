@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607702686689",
+    "project_id": "aqi-monitor-app-dev",
+    "storage_bucket": "aqi-monitor-app-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607702686689:android:05e8e1913ac308dc8f10a0",
+        "android_client_info": {
+          "package_name": "com.mayur.aqimonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607702686689-oo4l6l8cett9marr4ospjt253kl8t0q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayur.aqimonitor",
+            "certificate_hash": "a969f9bd597d11f29a376e5a43cdabd05f07c52f"
+          }
+        },
+        {
+          "client_id": "607702686689-s1ukjm7pjnkrj6kiqkpq8dlp50kf99la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayur.aqimonitor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "607702686689-76n0288vlqovt5a1bajkvrfbmit4rjr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArX95wme7l0Ki7qsuoZJm5GxUb9a7tBwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607702686689-76n0288vlqovt5a1bajkvrfbmit4rjr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
